@@ -1,49 +1,36 @@
-## Why WADE?
-WADE was created to be a side-channel for technical advocates, evangelists and
+## Why?
+This Slack channel was created to be a side-channel for community managers, community support, technical advocates, evangelists and
 organizers. Generally, we aim to be a place you could go with questions like:
 
-* "Hey, who all is going to be at Monitorama next month?"
+* "Hey, who all is going to be at CMX East?"
 * "What's the best place to buy t-shirts that fit people?"
-* "Does anyone want to co-sponsor a hackathon two days before Velocity?"
-* "Our Meetup Venue just burned down. Can anyone in Portland host 35 pyladies on short notice?"
-* "What's the best non-liquid (eg pack-able) laundry detergent that works well on colors in hotel sinks?"
-* "Hello vendors that compete with me, do you want to sit on a panel together at Strangeloop?"
+* "Does anyone want to co-sponsor a Meetup?"
+* "Our Meetup Venue just burned down. Can anyone in Portland host on short notice?"
+* "What's the best community platform?"
+* "What are your quarterly goals as a community manager?"
+* "How much do you travel as an advocate?"
+* "What is your corporate conference strategy?"
 * "What sticker design is working best for you right now?"
 * "I find myself in Chicago and in want of lunch. Anybody hungry?"
+* "What extent to you copy-edit your blog content?"
 * "Anybody want a job?"
-* "Where can I ship a Parka general post in Vancouver?"
+* "Anyone have any advice on starting an Ambassador Program?"
 
-Questions like those get asked and answered every day in WADE, along with a lot
+Questions like those get asked and answered every day, along with a lot
 of general conversation about advocacy and community management and just plain
-palling around. Developer evangelism and advocacy are relatively new roles, so
+palling around. Community Management, developer evangelism and advocacy are relatively new roles, so
 in parallel to the community organization activity, a lot of what goes on in
 WADE is practitioners figuring out what their own roles mean or how to navigate
-making them work in a new place.  What are your quarterly goals as a developer
-evangelist? How much do you travel as an advocate?  What is your corporate
-conference strategy (booths and sponsored talks? or CFP's and prayers?), to
-what extent to you copy-edit your blog content, etc..etc... 
+making them work in a new place.
 
-## Who can Join? 
+## Who can Join?
 Our members are generally professionals with the words 'community', 'advocate',
 or 'evangelist' in their titles. Organizationally, we usually fall someplace
 beneath "Product" on the org chart. Right now looking at the active membership,
 we consist mostly of community and event organizers. Many of our members have a
 different day job, but organize conferences and/or meetups on the side. We have
 several others who are students or who do something else professionally and are
-trying to decide if they're interested in switching roles. 
-
-One thing we have in common is that we orbit software engineering, and directly
-interact with software engineers on a regular basis. We organize events for
-software engineers, educate software engineers, take action to smooth
-integration headaches for software engineers, and even perform anthropology on
-software engineers in order to extract and tell an interesting story to other
-software engineers.  
-
-Many of us are, or have been engineers, but at least as many others aren't and
-haven't been engineers. Unlike many engineers however, we aren't bewitched by
-technical aptitude, and don't expect or require that you "code" or anything
-like that. We happily help each other grow in myriad ways because community and
-advocacy are harder than computers, and require a far wider range of expertise.
+trying to decide if they're interested in switching roles.
 
 Another thing we have in common is that we're generally incentivized to be
 cooperative, by which I mean we're very comfortable interacting with, and
@@ -69,6 +56,6 @@ all means if you're coming from a marketing or sales or whatever angle, and you
 believe that we can help each other, send us an invite request and talk to us.
 
 ## Welcome!
-I guess the TLDR; is that WADE is a place where community, event, and advocacy
+I guess the TLDR; is that this is a place where community, event, and advocacy
 people can learn from each other, network, and grow.  If that sounds
-interesting to you, we'd love to have you join us! 
+interesting to you, we'd love to have you join us!
