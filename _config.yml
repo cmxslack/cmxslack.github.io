@@ -18,7 +18,7 @@ footer:
   copyright: We Are Community Managers and Developer Evangelists
   location: Location
   social: Around the Web
-  credits: Credits
+  codeofconduct: CodeOfConduct
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -32,7 +32,7 @@ social:
 
 
 # CodeOfConduct
-CodeOfConduct: 'Read our Community-Run Slack <a href="https://github.com/cmxslack/getting-started/blob/master/CodeOfConduct.md">Code Of Conduct.</a>'
+codeofconduct: 'Read our Community-Run Slack <a href="https://github.com/cmxslack/getting-started/blob/master/CodeOfConduct.md">Code Of Conduct.</a>'
 
 # Build settings
 markdown: kramdown
