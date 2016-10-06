@@ -1,5 +1,5 @@
 # cmxslack.github.io
-Evangelist Collective Homepage
+CMX Slack Homepage
 
 The community-run CMX slack is a collaborative effort of friendly people who want to empower each other to build a stronger, more inclusive community. For the full schpeel, [read about the project](https://github.com/cmxslack/getting-started).
 
@@ -59,12 +59,6 @@ in nature and both willing and able to help each other out.
 That said, we're still figuring out what WADE is and what it could be, so by
 all means if you're coming from a marketing or sales or whatever angle, and you
 believe that we can help each other, send us an invite request and talk to us.
-
-## Welcome!
-I guess the TLDR; is that this is a place where community, event, and advocacy
-people can learn from each other, network, and grow.  If that sounds
-interesting to you, we'd love to have you join us!
-
 
 ## Contributing
 

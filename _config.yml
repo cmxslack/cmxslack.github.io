@@ -1,6 +1,6 @@
 # Site settings
 title: Community-run CMX Slack
-email: alexandrannabowen@gmail.com
+email: alexandra.anna.bowen@gmail.com
 url: https://cmxslack.github.io
 description: "We Are Community Managers and Developer Evangelists- and So Can You! exists to facilitate sharing information, resources and encouragement among the community."
 
@@ -31,8 +31,8 @@ social:
 
 
 
-# Credits content
-credits: 'Our collective is an inclusive thought experiment started by Dave Josephsen. This site is build by <a href="https://twitter.com/mjbrender">Matt Brender</a> on Freelancer: a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# CodeOfConduct
+CodeOfConduct: 'Read our Community-Run Slack <a href="https://github.com/cmxslack/getting-started/blob/master/CodeOfConduct.md">Code Of Conduct.</a>'
 
 # Build settings
 markdown: kramdown
