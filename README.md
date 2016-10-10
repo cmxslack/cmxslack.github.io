@@ -25,7 +25,7 @@ Questions like those get asked and answered every day, along with a lot
 of general conversation about advocacy and community management and just plain
 palling around. Community Management, developer evangelism and advocacy are relatively new roles, so
 in parallel to the community organization activity, a lot of what goes on in
-WADE is practitioners figuring out what their own roles mean or how to navigate
+CMX slack is practitioners figuring out what their own roles mean or how to navigate
 making them work in a new place.
 
 ## Who can Join?
@@ -51,12 +51,12 @@ We've turned down a few membership requests from folks in positions like sales,
 marketing, and venture capitalism. It's nothing personal, and we don't have
 anything against those things, but we feel that it's important for us to
 maintain a certain... simplicity of intention among our members.  At the
-moment WADE is genuinely useful as a means of creating ad-hoc dialog between
+moment CMX slack is genuinely useful as a means of creating ad-hoc dialog between
 community and advocacy people in a wide range of organizations, and for that to
 continue and grow, we need to make sure that all of our members are cooperative
 in nature and both willing and able to help each other out.
 
-That said, we're still figuring out what WADE is and what it could be, so by
+That said, we're still figuring out what CMX slack is and what it could be, so by
 all means if you're coming from a marketing or sales or whatever angle, and you
 believe that we can help each other, send us an invite request and talk to us.
 
