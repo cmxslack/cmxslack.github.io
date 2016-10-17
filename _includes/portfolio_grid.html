@@ -1,20 +1,15 @@
 
-    <!-- Portfolio Grid Section --->
+    <!-- Portfolio Grid Section
     <section id="portfolio">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Get Join our next AMA</h2>
+                    <h2>Get Involved with CMX</h2>
                     <hr class="star-primary">
                 </div>
             </div>
             <div class="row">
-              <div class="col-lg-12 col-lg-offset-2 text-center">
-                  <a href="https://docs.google.com/forms/d/1wcY7MAs_oDrFlNIxE0rElLUJRPadv8ibRr_s4ptB7GI/viewform?ths=true&edit_requested=true" class="btn btn-lg btn-outline">
-                      <i class="fa fa-slack"></i> View the upcoming AMA Calendar.</a>
-              </div>
-
-              <!--  {% for post in site.posts %}
+                {% for post in site.posts %}
                     <div class="col-sm-4 portfolio-item">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
@@ -25,10 +20,32 @@
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                         </a>
                     </div>
-                {% endfor %} -->
-
+                {% endfor %}
             </div>
         </div>
-    </section>
+    </section> -->
 
-    Check out an upcoming community <a href="https://calendar.google.com/calendar/embed?src=cmxsummit.com_nbn7nj5hvmg0roq8d8lgck5usk%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"">AMA (Ask Me Anything) via this calendar</a>.
+    <!-- AMA Section -->
+       <section class="success" id="about">
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-12 text-center">
+                       <h2>Join our next AMA</h2>
+                       <hr class="star-light">
+                   </div>
+               </div>
+               <div class="row">
+                   <div class="col-lg-4 col-lg-offset-2">
+                       <p>We Are Community Managers and Developer Evangelists- and So Can You! This community-run CMX Slack exists to facilitate sharing information, resources and encouragement among the community.</p>
+                   </div>
+                   <div class="col-lg-4">
+                       <p>If you share a passion for community and you would like to get to know a great group of friendly peers, reach out about joining the collective.</p>
+                   </div>
+                   <div class="col-lg-8 col-lg-offset-2 text-center">
+                       <a href="https://docs.google.com/forms/d/1wcY7MAs_oDrFlNIxE0rElLUJRPadv8ibRr_s4ptB7GI/viewform?ths=true&edit_requested=true" class="btn btn-lg btn-outline">
+                           <i class="fa fa-slack"></i> Request An Invite
+                       </a>
+                   </div>
+               </div>
+           </div>
+       </section>
