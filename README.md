@@ -84,4 +84,4 @@ The portfolio is a little tricky: images are automatically loaded from the `img/
 
 ## Credits
 
-We rock a [MIT License]([LICENSE]). The Jekyll theme is [Freelancer](http://jekyllthemes.org/themes/freelancer/) and icons are from designers on [The Noun Project](http://thenounproject.com). [Matt Brender](http://github.com/mjbrender) made the site.
+<i>Cheers to The <a href="https://github.com/evangelistcollective/getting-started">Evangelist Collective</a> for the copy inspiration.<i> We rock a [MIT License]([LICENSE]). The Jekyll theme is [Freelancer](http://jekyllthemes.org/themes/freelancer/) and icons are from designers on [The Noun Project](http://thenounproject.com). [Matt Brender](http://github.com/mjbrender) made the site.
