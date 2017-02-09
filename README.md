@@ -1,6 +1,4 @@
 # cmxslack.github.io
-CMX Slack Homepage
-
 The community-run CMX slack is a collaborative effort of friendly people who want to empower each other to build a stronger, more inclusive community. For the full schpeel, [read about the project](https://github.com/cmxslack/getting-started).
 
 ## Why?
